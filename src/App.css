@@ -1,0 +1,53 @@
+:root {
+  --first-color: #372972;
+  --second-color: #2a2155;
+  --third-color: #711a94;
+  --fourth-color: #5400ea;
+  --fifth-color: #251652;
+  --sixth-color: #4d216f;
+  --card-color: #3b2c7c;
+  --section-margin: 60px;
+}
+
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #FFF;
+}
+.container {
+  margin-left: 60px;
+  margin-right: 60px;
+  color: #FFF;
+}
+@media (max-width: 800px) {
+  .container {
+      margin-left: 30px;
+      margin-right: 30px;
+  }
+}
+@media (max-width: 650px) {
+  .container {
+      margin-left: 10px;
+      margin-right: 10px;
+  }
+}
+/* End global rules */
+
+/* Start Component */
+.heading {
+  text-align: center;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+@media (max-width: 600px) {
+  .heading {
+      font-size: 25px;
+  }
+}
+/* End Component */
+

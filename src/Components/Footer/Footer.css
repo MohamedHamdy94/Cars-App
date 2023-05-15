@@ -1,0 +1,83 @@
+
+
+/* Start footer */
+footer {
+  color: #FFF;
+  padding: 0 60px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-image: linear-gradient(to left, var(--first-color), var(--fifth-color));
+}
+footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+footer a {
+  text-decoration: none;
+  color: #FFF;
+}
+@media (max-width: 1100px){
+  footer {
+      justify-content: flex-start;
+  }
+}
+@media (max-width: 800px) {
+  footer {
+      padding-left: 30px;
+      padding-right: 30px;
+  }
+}
+@media (max-width: 650px) {
+  footer {
+      padding-left: 10px;
+      padding-right: 10px;
+  }
+}
+footer div {
+  margin: 20px 10px;
+}
+footer div:first-child {
+  width: 350px;
+}
+footer div h2 {
+  margin: 0 0 10px;
+  font-size: 30px;
+}
+footer div ul li {
+  padding: 2px 0;
+}
+footer div:not(:first-child) ul li a i {
+  margin-right: 10px;
+}
+footer .info-1 p {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.5;
+}
+footer .info-1 ul {
+  margin-top: 10px;
+  display: flex;
+}
+footer .info-1 ul li {
+  padding: 0 10px;
+}
+footer .info-1 ul li a i {
+  font-size: 30px;
+}
+@media (max-width: 500px){
+  footer .info-1 ul li a i{
+      font-size: 20px;
+  }
+  footer div h2 {
+      font-size: 25px;
+  }
+  footer div p {
+      font-size: 11px !important;
+  }
+  footer div ul li {
+      font-size: 12px;
+  }
+}
+/* End footer */

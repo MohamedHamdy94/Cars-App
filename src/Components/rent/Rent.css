@@ -1,0 +1,54 @@
+
+/* Start Rent */
+.rent {
+  margin-top: var(--section-margin);
+  margin-bottom: var(--section-margin);
+  color: #FFF;
+}
+.rent .content {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(295px, 1fr));
+  grid-gap: 50px;
+}
+.rent .content .card {
+  padding: 20px;
+  background-color: var(--card-color);
+  border-radius: 10px;
+}
+.rent .content .card h2 {
+  font-weight: 500;
+  margin: 0;
+}
+.rent .content .card h2:nth-child(1),
+.rent .content .card h2:nth-child(5) {
+  text-align: center;
+}
+.rent .content .card .image {
+  margin-top: 10px;
+  width: 100;
+  min-height: 200px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.rent .content .card .image img {
+  width: 100%;
+}
+.rent .content .card .icon {
+  margin: 10px 0 20px;
+}
+.rent .content .card .icon i {
+  margin-left: 10px;
+}
+.rent .content .card button {
+  display: block;
+  margin: 20px auto 0;
+  padding: 15px 40px;
+  border: none;
+  border-radius: 0 15px;
+  font-weight: 600;
+  color: #FFF;
+  background-image: linear-gradient(to right, var(--third-color), var(--fourth-color));
+  box-shadow: 0px 0px 2px 0px #000 inset;
+}
+/* End Rent */
