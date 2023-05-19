@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Cars-App/static/css/main.1b9a7f8c.css",
-    "main.js": "/Cars-App/static/js/main.fbf04c31.js",
+    "main.css": "/Cars-App/static/css/main.39da4369.css",
+    "main.js": "/Cars-App/static/js/main.3137d7b2.js",
     "static/media/fa-solid-900.ttf": "/Cars-App/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
     "static/media/fa-brands-400.ttf": "/Cars-App/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
     "static/media/fa-solid-900.woff2": "/Cars-App/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
@@ -11,11 +11,11 @@
     "static/media/fa-v4compatibility.ttf": "/Cars-App/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
     "static/media/fa-v4compatibility.woff2": "/Cars-App/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/Cars-App/index.html",
-    "main.1b9a7f8c.css.map": "/Cars-App/static/css/main.1b9a7f8c.css.map",
-    "main.fbf04c31.js.map": "/Cars-App/static/js/main.fbf04c31.js.map"
+    "main.39da4369.css.map": "/Cars-App/static/css/main.39da4369.css.map",
+    "main.3137d7b2.js.map": "/Cars-App/static/js/main.3137d7b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b9a7f8c.css",
-    "static/js/main.fbf04c31.js"
+    "static/css/main.39da4369.css",
+    "static/js/main.3137d7b2.js"
   ]
 }
