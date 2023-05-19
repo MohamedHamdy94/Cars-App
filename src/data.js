@@ -3,7 +3,7 @@ const data = {
     {
       name: 'lamborghini',
       model: 2017,
-      image: './images/car-3.png',
+      image: '/Cars-App/images/car-3.png',
       price: 55.0,
       gaugeSimpleHigh: '16K',
       circlePause: 'Auto',
@@ -12,7 +12,7 @@ const data = {
     {
       name: 'Ferrari',
       model: 2013,
-      image: './images/car-4.png',
+      image: '/Cars-App/images/car-4.png',
       price: 60.0,
       gaugeSimpleHigh: '16K',
       circlePause: 'Auto',
@@ -21,7 +21,7 @@ const data = {
     {
       name: 'Rolls Royce',
       model: 2018,
-      image: './images/car-5.png',
+      image: '/Cars-App/images/car-5.png',
       price: 99.0,
       gaugeSimpleHigh: '16K',
       circlePause: 'Auto',
@@ -30,7 +30,7 @@ const data = {
     {
       name: 'Batman',
       model: 1989,
-      image: './images/car-7.png',
+      image: '/Cars-App/images/car-7.png',
       price: 55.0,
       gaugeSimpleHigh: '16K',
       circlePause: 'Auto',
@@ -39,7 +39,7 @@ const data = {
     {
       name: 'dodge',
       model: 2010,
-      image: './images/car-8.png',
+      image: '/Cars-App/images/car-8.png',
       price: 50.0,
       gaugeSimpleHigh: '16K',
       circlePause: 'Auto',
@@ -48,7 +48,7 @@ const data = {
     {
       name: 'lamborghini',
       model: 2010,
-      image: './images/car-10.png',
+      image: '/Cars-App/images/car-10.png',
       price: 55.0,
       gaugeSimpleHigh: '16K',
       circlePause: 'Auto',
@@ -57,7 +57,7 @@ const data = {
     {
       name: 'Chevrolet',
       model: 2010,
-      image: './images/car-11.png',
+      image: '/Cars-App/images/car-11.png',
       price: 45.0,
       gaugeSimpleHigh: '16K',
       circlePause: 'Auto',
@@ -66,7 +66,7 @@ const data = {
     {
       name: 'Mercedes',
       model: 2010,
-      image: './images/car-12.png',
+      image: '/Cars-App/images/car-12.png',
       price: 35.0,
       gaugeSimpleHigh: '16K',
       circlePause: 'Auto',
@@ -74,11 +74,11 @@ const data = {
     },
   ],
   brands: [
-    { name: 'BMW', image: './images/bmw-logo.png' },
-    { name: 'Bugatti', image: './images/bugatti-logo.png' },
-    { name: 'lamborghini', image: './images/Lamborghini-logo.png' },
-    { name: 'Ferrari', image: './images/Ferrari-logo.png' },
-    { name: 'rolls', image: './images/rolls-royce-logo.png' },
+    { name: 'BMW', image: '/Cars-App/images/bmw-logo.png' },
+    { name: 'Bugatti', image: '/Cars-App/images/bugatti-logo.png' },
+    { name: 'lamborghini', image: '/Cars-App/images/Lamborghini-logo.png' },
+    { name: 'Ferrari', image: '/Cars-App/images/Ferrari-logo.png' },
+    { name: 'rolls', image: '/Cars-App/images/rolls-royce-logo.png' },
   ],
 };
 export default data;
