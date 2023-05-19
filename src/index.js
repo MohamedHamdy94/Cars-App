@@ -11,10 +11,9 @@ import "./normalize.css";
 // const root = createRoot(container); // createRoot(container!) if you use TypeScript
 // root.render(<App tab="home" />);
 
-
 ReactDOM.render(
   <React.StrictMode>
-     <App />
+      <App />
   </React.StrictMode>,
   document.getElementById("root")
 );

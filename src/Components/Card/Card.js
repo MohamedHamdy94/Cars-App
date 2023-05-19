@@ -1,11 +1,12 @@
 import React from 'react';
-
 const Card = ({ car }) => {
   return (
     <div className="card">
       <h2>{car.name}</h2>
       <div className="image">
+        {/* <img src={require(`../../images/${car.image}`)} alt="car-img" /> */}
         <img src={car.image} alt="car-img" />
+
       </div>
       <h2>{car.model}</h2>
       <div className="icon">
@@ -19,5 +20,6 @@ const Card = ({ car }) => {
     </div>
   );
 };
+
 
 export default Card;
