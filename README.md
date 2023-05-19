@@ -1,7 +1,6 @@
 # Getting Started with Create React App
-  "homepage": "https://MohamedHamdy94.github.io/cars-app",
-live Dimo: 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+live Dimo: https://mohamedhamdy94.github.io/Cars-App/
 
 ## Available Scripts
 
