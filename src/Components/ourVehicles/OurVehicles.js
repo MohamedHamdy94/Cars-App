@@ -25,7 +25,7 @@ const OurVehicles = () => {
           <button>$90/DAY</button>
         </div>
         <div className="right">
-          <img src="/images/car-2.png" alt="car-img" />
+          <img src="/Cars-App/images/car-2.png" alt="car-img" />
         </div>
       </div>
     </div>

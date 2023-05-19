@@ -10,7 +10,7 @@ const Services = () => {
           Nature Admire Wisdom. Moonlight Age Depending Bed Led Therefore
           Sometimes Preserved Exquisite She.
         </p>
-        <img src="/images/car-6.png" alt="car-img" />
+        <img src="/Cars-App/images/car-6.png" alt="car-img" />
       </div>
       <div className="right">
         <div className="box">

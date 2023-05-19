@@ -7,6 +7,7 @@ import Landing from './Components/landing/Landing';
 import Rent from './Components/rent/Rent';
 import OurBrands from './Components/ourBrands/OurBrands';
 import FormCom from './Components/form/Form';
+import OurVehicles from './Components/ourVehicles/OurVehicles';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Landing />
         <FormCom/>
         <Services />
+        <OurVehicles/>
         <Rent />
         <OurBrands />
       </div>

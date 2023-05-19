@@ -24,7 +24,7 @@ const Landing = () => {
         </div>
       </div>
       <div className="image">
-        <img src="/images/car-1.png" alt="car-img" />
+        <img src="/Cars-App/images/car-1.png" alt="car-img" />
       </div>
     </div>
   );

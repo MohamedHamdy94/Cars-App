@@ -76,8 +76,8 @@ const data = {
   brands: [
     { name: 'BMW', image: '/Cars-App/images/bmw-logo.png' },
     { name: 'Bugatti', image: '/Cars-App/images/bugatti-logo.png' },
-    { name: 'lamborghini', image: '/Cars-App/images/Lamborghini-logo.png' },
-    { name: 'Ferrari', image: '/Cars-App/images/Ferrari-logo.png' },
+    { name: 'lamborghini', image: '/Cars-App/images/lamborghini-logo.png' },
+    { name: 'Ferrari', image: '/Cars-App/images/Ferrari-Logo.png' },
     { name: 'rolls', image: '/Cars-App/images/rolls-royce-logo.png' },
   ],
 };
